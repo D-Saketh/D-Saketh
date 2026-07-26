@@ -1,78 +1,183 @@
-# Darimireddy Saketh Ram
+# 👋 Hi, I'm Saketh Ram
 
-**AI Systems Engineer | ML + IoT + Full Stack**
+<div align="center">
 
-I build intelligent systems that combine machine learning, data pipelines, and real-world deployment. My work focuses on solving practical problems with measurable performance and scalable design.
+### 🚀 Full Stack Developer | Java | React | Spring Boot | Cloud Enthusiast
 
----
+Building scalable applications and exploring modern software engineering practices.
 
-## 🚀 What I Do
+<img src="https://komarev.com/ghpvc/?username=D-Saketh&label=Profile%20Views&color=0e75b6&style=flat" />
 
-* Build ML models with high performance (up to **99.2% accuracy**)
-* Design end-to-end systems (APIs, dashboards, analytics pipelines)
-* Work on IoT networking protocols (Smart RPL, Contiki OS)
-* Combine AI models with real-world applications
+</div>
 
 ---
 
-## 🧠 Featured Work
+# 🧑‍💻 About Me
 
-### 🔹 Ryft – AI Code Review & Developer Analytics Platform
-
-* Processes **1000+ files per submission** with concurrent pipelines
-* Generates **50+ AI comments** with severity classification
-* Reduces manual review effort by **~70%**
-* Built **19+ APIs** supporting real-time workflows
-  👉 https://github.com/D-Saketh
-
----
-
-### 🔹 Automated Cattle Body Condition Score Classification
-
-* Multi-class classification on **1,885 images**
-* Achieved **99.2% accuracy**
-* Used hybrid feature fusion + PCA optimization
-  👉 https://github.com/D-Saketh
+- 🎓 Computer Science Engineering Student
+- 💻 Passionate about Full Stack Development
+- 🌱 Currently learning:
+  - Advanced Java
+  - Spring Boot
+  - React.js
+  - Cloud & DevOps
+- 🔥 Interested in building scalable real-world applications
+- 🎯 Goal: Become a strong Software Engineer
 
 ---
 
-### 🔹 Customer Risk Prediction Model
+# 🛠️ Tech Stack
 
-* Engineered **25+ behavioral features**
-* Built deep learning pipeline with strong validation performance
-* End-to-end ML workflow from preprocessing to prediction
-  👉 https://github.com/D-Saketh
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js,sql" />
+
+</p>
+
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,html,css,vite" />
+
+</p>
+
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
+
+</p>
+
+
+## Database & Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,docker,kubernetes" />
+
+</p>
+
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,idea,vscode" />
+
+</p>
 
 ---
 
-### 🔹 EasyBike – Peer-to-Peer Bike Sharing Platform
+# 🚀 Featured Projects
 
-* Built real-time booking system used by **20+ users**
-* Managed **30+ ride requests** with live updates
-* Implemented authentication, role-based access, and location tracking
-* Designed scalable backend with real-time database listeners
-  👉 https://github.com/D-Saketh
 
----
+## 🚲 EasyBike — Full Stack Bike Rental Platform
 
-## ⚙️ Tech Stack
+A peer-to-peer bike rental application built using React, Spring Boot, and MySQL.
 
-* **ML/AI:** TensorFlow, Keras, scikit-learn
-* **Backend:** Node.js, Express
-* **Frontend:** React, TypeScript
-* **Data:** Pandas, NumPy
-* **Databases:** MongoDB, PostgreSQL
-* **IoT & Systems:** Contiki OS, 6TiSCH, Smart RPL
+### Features:
 
----
+- Role-based authentication
+- Customer & Admin dashboards
+- Bike listing workflow
+- Booking management
+- Approval system
 
-## 📊 GitHub Stats
+Tech:
 
-![Saketh's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Saketh\&show_icons=true\&theme=radical)
+`React` `Spring Boot` `MySQL` `Spring Security`
+
 
 ---
 
-## 📫 Contact
+## 🛒 Java Shopping Microservices
 
-* Email: [saketh.darimireddy@gmail.com](mailto:saketh.darimireddy@gmail.com)
-* GitHub: https://github.com/D-Saketh
+Cloud-native shopping application using Java microservices.
+
+Features:
+
+- Docker containerization
+- Kubernetes deployment
+- Service-based architecture
+
+Tech:
+
+`Java` `Spring Boot` `Docker` `Kubernetes`
+
+
+---
+
+## 🚴 EasyBike Rental Platform
+
+A bike sharing application allowing users to rent and list bikes.
+
+Tech:
+
+`React` `TypeScript` `Firebase` `MongoDB`
+
+---
+
+# 📊 GitHub Statistics
+
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=D-Saketh&show_icons=true&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=D-Saketh&theme=tokyonight" />
+
+</div>
+
+
+---
+
+# 📈 Most Used Languages
+
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Saketh&layout=compact&theme=tokyonight" />
+
+</div>
+
+
+---
+
+# 🏆 Achievements & Learning
+
+- Solving Data Structures and Algorithms problems
+- Building full-stack applications
+- Exploring cloud-native technologies
+- Learning system design principles
+
+---
+
+# 📫 Connect With Me
+
+
+<p>
+
+<a href="https://github.com/D-Saketh">
+<img src="https://img.shields.io/badge/GitHub-D--Saketh-black?style=for-the-badge&logo=github">
+</a>
+
+
+</p>
+
+
+---
+
+<div align="center">
+
+### ⭐ "Building, learning, and improving every day."
+
+</div>

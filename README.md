@@ -5,14 +5,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/D-Saketh">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
+  <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D-Saketh&theme=dark&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/D-Saketh/D-Saketh/output/pacman-contribution-graph-dark.svg" />
 </p>

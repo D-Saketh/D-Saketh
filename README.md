@@ -1,7 +1,7 @@
 # Hey 👋 What's Up?
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,mysql,docker,kubernetes,aws,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,hibernate,docker,kubernetes,aws,git,github" />
 </p>
 
 <p align="center">
